@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\LoadOGL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\LoadOGLCore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwColors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwEventGLFW.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwFonts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwOpenGL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwOpenGLCore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwPrecomp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\AntPerfTimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\LoadOGL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\LoadOGLCore.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\MiniGLFW.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwBar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwColors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwFonts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwGraph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwMgr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwOpenGL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwOpenGLCore.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\AntTweakBar-1.16\src\TwPrecomp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{AC7C2F5D-F673-36AD-A70F-652B6F9E8F1B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E17F597D-B2EE-3833-BE02-12EDCB5B8119}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

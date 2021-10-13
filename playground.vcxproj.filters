@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\playground\playground.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\common\shader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\common\shader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E17F597D-B2EE-3833-BE02-12EDCB5B8119}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{0343BDE9-3940-3E5C-8BA7-46DBD669E6BC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{0db03d75-d60d-4b71-a31d-5af7e577cbc0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\OfficialOpenGLSource\ogl-master\tutorial03_matrices\TransformVertexShader.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\OfficialOpenGLSource\ogl-master\tutorial03_matrices\ColorFragmentShader.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\glfw-3.1.2\examples\gears.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\javey\OfficialOpenGLSource\ogl-master\external\glfw-3.1.2\examples\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E17F597D-B2EE-3833-BE02-12EDCB5B8119}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

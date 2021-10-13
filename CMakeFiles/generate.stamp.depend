@@ -1,0 +1,32 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake
+C:/Users/javey/OfficialOpenGLSource/ogl-master/CMakeLists.txt
+C:/Users/javey/OfficialOpenGLSource/ogl-master/external/rpavlik-cmake-modules-fe2273/CleanDirectoryList.cmake
+C:/Users/javey/OfficialOpenGLSource/ogl-master/external/rpavlik-cmake-modules-fe2273/CreateLaunchers.cmake
+C:/Users/javey/OfficialOpenGLSource/ogl-master/external/rpavlik-cmake-modules-fe2273/ListCombinations.cmake
+C:/Users/javey/OfficialOpenGLSource/ogl-master/external/rpavlik-cmake-modules-fe2273/MSVCMultipleProcessCompile.cmake
+C:/Users/javey/OfficialOpenGLSource/ogl-master/external/rpavlik-cmake-modules-fe2273/launcher-templates/targetlauncher.cmd.in
+C:/Users/javey/OfficialOpenGLSource/ogl-master/external/rpavlik-cmake-modules-fe2273/launcher-templates/vcxproj.user.in
+C:/Users/javey/OfficialProjectBinaries/CMakeFiles/3.21.2/CMakeCCompiler.cmake
+C:/Users/javey/OfficialProjectBinaries/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake
+C:/Users/javey/OfficialProjectBinaries/CMakeFiles/3.21.2/CMakeRCCompiler.cmake
+C:/Users/javey/OfficialProjectBinaries/CMakeFiles/3.21.2/CMakeSystem.cmake
